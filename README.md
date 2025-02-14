@@ -10,9 +10,9 @@ It is primarily configured for building the Xiaomi AX3000T router firmware, prov
 
 ## Default Configuration  
 
-- **Default LAN IP**: `192.168.31.1`  
+- **Default LAN IP**: `192.168.0.1`  
 
-- **默认 LAN IP**: `192.168.31.1`  
+- **默认 LAN IP**: `192.168.0.1`  
 
 ## Custom Build  
 
