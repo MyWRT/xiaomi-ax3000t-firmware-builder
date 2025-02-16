@@ -22,7 +22,7 @@ jobs:
 
     strategy:
       matrix:
-        board: [ax3000t, ax3000t_an8855] 
+        board: [ax3000t] 
 
     steps:
 
