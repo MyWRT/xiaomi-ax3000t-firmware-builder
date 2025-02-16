@@ -17,3 +17,10 @@ pushd package/luci-app-netdata
 umask 022
 git checkout
 popd
+
+# Add luci-app-wechatpush
+git clone --depth 1 --branch master --single-branch --no-checkout https://github.com/tty228/luci-app-wechatpush.git package/luci-app-wechatpush
+pushd package/luci-app-wechatpush
+umask 022
+git checkout
+popd
