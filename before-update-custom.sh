@@ -19,3 +19,6 @@ git clone --depth 1 https://github.com/tty228/luci-app-wechatpush.git package/lu
 
 # Add luci-app-wolplus
 git clone --depth 1 https://github.com/animegasan/luci-app-wolplus.git package/luci-app-wolplus
+
+# Add luci-app-ddns-go repo
+echo "src-git ddnsgo https://github.com/sirpdboy/luci-app-ddns-go" >> ./feeds.conf.default
