@@ -13,6 +13,7 @@
 
 # Add luci-app-netdata
 git clone --depth 1 https://github.com/muink/luci-app-netdata.git package/luci-app-netdata
+git clone --depth 1 https://github.com/muink/openwrt-netdata-ssl package/netdata-ssl
 
 # Add luci-app-wechatpush
 git clone --depth 1 https://github.com/tty228/luci-app-wechatpush.git package/luci-app-wechatpush
